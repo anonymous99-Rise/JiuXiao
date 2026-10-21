@@ -1,0 +1,12 @@
+# OS artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+*.swp
+*.swo
+*~
+
+# Local overrides
+.local.*
